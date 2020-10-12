@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Week7Functions\Gendere\bin\Debug\netcoreapp3.1\Gendere.exe
+C:\Users\opilane\source\repos\Week7Functions\Gendere\bin\Debug\netcoreapp3.1\Gendere.deps.json
+C:\Users\opilane\source\repos\Week7Functions\Gendere\bin\Debug\netcoreapp3.1\Gendere.runtimeconfig.json
+C:\Users\opilane\source\repos\Week7Functions\Gendere\bin\Debug\netcoreapp3.1\Gendere.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Week7Functions\Gendere\bin\Debug\netcoreapp3.1\Gendere.dll
+C:\Users\opilane\source\repos\Week7Functions\Gendere\bin\Debug\netcoreapp3.1\Gendere.pdb
+C:\Users\opilane\source\repos\Week7Functions\Gendere\obj\Debug\netcoreapp3.1\Gendere.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Week7Functions\Gendere\obj\Debug\netcoreapp3.1\Gendere.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Week7Functions\Gendere\obj\Debug\netcoreapp3.1\Gendere.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Week7Functions\Gendere\obj\Debug\netcoreapp3.1\Gendere.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Week7Functions\Gendere\obj\Debug\netcoreapp3.1\Gendere.dll
+C:\Users\opilane\source\repos\Week7Functions\Gendere\obj\Debug\netcoreapp3.1\Gendere.pdb
+C:\Users\opilane\source\repos\Week7Functions\Gendere\obj\Debug\netcoreapp3.1\Gendere.genruntimeconfig.cache
